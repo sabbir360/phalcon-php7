@@ -1,6 +1,6 @@
 # phalcon-php7
 
-To star php run
+To start php and phalcon run:
 
 `docker run -d --name phalcon_project -v "$pwd":/var/www -p 5007:80 sabbir1cse/phalcon:latest`
 
